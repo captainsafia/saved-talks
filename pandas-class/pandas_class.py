@@ -15,7 +15,7 @@ def what_is_pandas():
 	structures and tools for data analytics!"""
 
 def who_am_i():
-	print "Co-organizer of PyLadies Chicago and data scientist at SapientNitro"
+	print "Co-organizer of PyLadies Chicago and data scientist at SapientNitro \n @captainsafia \n safia@safia.rocks \n safia.rocks"
 
 def where_is_the_data():
 	print "http://bit.ly/gapl-ridership"

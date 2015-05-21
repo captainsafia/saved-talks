@@ -1,0 +1,6 @@
+1. What's the most popular train line?
+2. What bus route has the most deployed bus routes at a given time?
+3. What are the least utilized bus stops on the Ashland bus? Train stops?
+4. Where are people travelling from?
+5. What are the most popular entry point and exit points?
+6. How does the weather affect train ridership?
